@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.counter {
+  color: #c20a72;
+}
+.heading {
+  color: #2d3a35;
+}
+.butn-style {
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 15px;
+  border-width: 0px;
+  border-radius: 5px;
+}
